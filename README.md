@@ -3,7 +3,7 @@
 <p align="center">
   <br><br>
   <samp>
-    I'm <a href="https://coderjojo.github.io/">Vedant</a> currently a Third Year CSE student at <a href="http://www.viit.ac.in/">@VIIT :school: </a> and aspiring software developer:computer:. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I'm <a href="https://dev-mhbportfolio.pantheonsite.io/">Mahmudul Hasan Bijoy</a> currently a Final Year student at <a href="http://www.viit.ac.in/">@DhakaCollege :school: </a> and a newcomer in Web Design & Development  Arena:computer:. Interested in working with Wordpress, PSD To HTML, PSD TO Wordpress and currently learning about JavaScript Framework.It seems I have a love relationship with Web D&D :neutral_face:
   </samp>
 </p>
 
@@ -32,14 +32,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
