@@ -2,17 +2,17 @@
 <br>
 <p align="center">
   <samp>
-    I'm <a href="https://dev-mhbportfolio.pantheonsite.io/">Mahmudul Hasan Bijoy</a> currently a Final Year student at <a href="http://www.viit.ac.in/">@DhakaCollege :school: </a> and a newcomer in Web Design & Development  Arena :computer:. Interested in working with Wordpress, PSD To HTML, PSD TO Wordpress and currently learning about JavaScript Framework.It seems I have a love relationship with Web D&D :neutral_face:
+    I'm <a href="https://dev-mhbportfolio.pantheonsite.io/">Mahmudul Hasan Bijoy</a> currently a Final Year student at @DhakaCollege :school: </a> and a newcomer in Web Design & Development  Arena :computer:. Interested in working with Wordpress, PSD To HTML, PSD TO Wordpress and currently learning about JavaScript Framework.It seems I have a love relationship with Web D&D :neutral_face:
   </samp>
 </p>
 
- - 🔭 I’m currently working on a [Sublime Text 3][website]!
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+ - 🔭 I’m currently working on <a href="https://www.sublimetext.com/">Sublime Text 3</a>
  - 🌱 I’m currently learning everything 🤣
  - 👯 I’m looking to collaborate with other web developers
  - 🥅 2020 Goals: Contribute more to Open Source projects & also learn more languages
  - ⚡ Fun fact: I love to watch english TV series and cricket
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
@@ -30,14 +30,11 @@
 
 # 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fbijoyhasan6)
+![Twitter URL](https://img.shields.io/twitter/url?color=Blue&label=LinkedIn&logo=Linkedin&logoColor=Blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmhbijoy007%2F)
 </p>
 <br>
+
 ---
 
 <p align="center">
