@@ -13,7 +13,8 @@
  - 👯 I’m looking to collaborate with other web developers
  - 🥅 2020 Goals: Contribute more to Open Source projects & also learn more languages
  - ⚡ Fun fact: I love to watch english TV series and cricket
-
+&nbsp;
+&nbsp;
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
 <img alt="sublime" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"/>
@@ -27,12 +28,11 @@
 <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 </p>
-
+&nbsp;
 # 🤝🏻 &nbsp;Connect with Me
   [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/mhbijoy007/) &nbsp;&nbsp;
-
----
-
+  [![twitter](https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png)](https://twitter.com/bijoyhasan6) &nbsp;&nbsp;
+  [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](https://mail.google.com/mail/u/0/) &nbsp;
 <p align="center">
   <i>A good code is like a story, not a puzzle.</i><br/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=mahmudul-hasan-bijoy.mahmudul-hasan-bijoy"/>
