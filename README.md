@@ -1,4 +1,5 @@
-### Hello, Devs!
+![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
+<br>
 <p align="center">
   <samp>
     I'm <a href="https://dev-mhbportfolio.pantheonsite.io/">Mahmudul Hasan Bijoy</a> currently a Final Year student at <a href="http://www.viit.ac.in/">@DhakaCollege :school: </a> and a newcomer in Web Design & Development  Arena :computer:. Interested in working with Wordpress, PSD To HTML, PSD TO Wordpress and currently learning about JavaScript Framework.It seems I have a love relationship with Web D&D :neutral_face:
@@ -27,7 +28,7 @@
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+# 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -37,5 +38,11 @@
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
 </p>
 <br>
-### ✨Visitors
-[![ViewCount](https://views.whatilearened.today/views/github/mahmudul-hasan-bijoy/mhb.svg?cache=remove)](#)
+---
+
+<p align="center">
+  <i>A good code is like a story, not a puzzle.</i><br/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=mahmudul-hasan-bijoy.mahmudul-hasan-bijoy"/>
+</p>
+
+![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
