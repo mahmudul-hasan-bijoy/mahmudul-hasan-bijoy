@@ -1,5 +1,4 @@
-![Mahmudul Hasan Bijoy's Banner](https://github.com/mahmudul-hasan-bijoy/mahmudul-hasan-bijoy/blob/master/assets/Clean%20Work%20Place%20Blog%20Banner.png)
-
+### Hello, Devs!
 <p align="center">
   <br><br>
   <samp>
