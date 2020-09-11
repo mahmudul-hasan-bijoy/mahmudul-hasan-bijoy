@@ -7,8 +7,7 @@
   </samp>
 </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> <br>
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/><br>
  - 🔭 I’m currently working on <a href="https://www.sublimetext.com/">Sublime Text 3</a>
  - 🌱 I’m currently learning everything 🤣
  - 👯 I’m looking to collaborate with other web developers
@@ -42,10 +41,9 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=mahmudul-hasan-bijoy.mahmudul-hasan-bijoy"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mahmudul-hasan-bijoy&show_icons=true&theme=vue" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mahmudul-hasan-bijoy&show_icons=true&theme=vue&hide=contribs,issues" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-hasan-bijoy&layout=compact" />
 </a>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
