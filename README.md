@@ -1,6 +1,5 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 <br>
-<br>
 <p align="center">
   <samp>
     I'm <a href="https://dev-mhbportfolio.pantheonsite.io/">Mahmudul Hasan Bijoy</a> currently a Final Year student at @DhakaCollege :school: </a> and a newcomer in Web Design & Development  Arena :computer:. Interested in working with Wordpress, PSD To HTML, PSD TO Wordpress and currently learning about JavaScript Framework.It seems I have a love relationship with Web D&D :neutral_face:
