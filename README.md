@@ -43,7 +43,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mahmudul-hasan-bijoy&show_icons=true&theme=vue&hide=contribs,issues" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-hasan-bijoy&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-hasan-bijoy&layout=compact&theme=vue" />
 </a>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
