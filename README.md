@@ -41,6 +41,13 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=mahmudul-hasan-bijoy.mahmudul-hasan-bijoy"/>
 </p>
 
-![Anurag's github stats float="right"](https://github-readme-stats.vercel.app/api?username=mahmudul-hasan-bijoy&show_icons=true&theme=vue)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-hasan-bijoy&layout=compact />
+</a>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mahmudul-hasan-bijoy&show_icons=true&theme=vue" />
+</a>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
