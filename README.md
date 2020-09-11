@@ -39,6 +39,7 @@
   <i>A good code is like a story, not a puzzle.(collected)</i><br/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=mahmudul-hasan-bijoy.mahmudul-hasan-bijoy"/>
 </p>
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mahmudul-hasan-bijoy&show_icons=true&theme=vue&hide=contribs,issues" />
