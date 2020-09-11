@@ -36,15 +36,13 @@
   [![twitter](https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png)](https://twitter.com/bijoyhasan6) &nbsp;&nbsp;
   [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](https://mail.google.com/mail/u/0/) &nbsp;
 <br>
+
 <p align="center">
   <i>A good code is like a story, not a puzzle.(collected)</i><br/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=mahmudul-hasan-bijoy.mahmudul-hasan-bijoy"/>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-hasan-bijoy&layout=compact />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mahmudul-hasan-bijoy&show_icons=true&theme=vue" />
