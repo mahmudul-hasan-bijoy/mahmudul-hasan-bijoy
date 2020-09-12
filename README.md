@@ -6,16 +6,18 @@
   </samp>
 </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/><br>
- - 🔭 I’m currently working on <a href="https://www.sublimetext.com/">Sublime Text 3</a>
- - 🌱 I’m currently learning everything 🤣
- - 👯 I’m looking to collaborate with other web developers
- - 🥅 2020 Goals: Contribute more to Open Source projects & also learn more languages
- - ⚡ Fun fact: I love to watch english TV series and cricket <br> <br>
+💡 &nbsp; I work on <a href="https://www.sublimetext.com/">Sublime Text 3</a>\
+🎓 &nbsp; I’m currently learning everything 🤣\
+🌱 &nbsp; I’m looking to collaborate with other web developers\
+🥅 &nbsp; 2020 Goals: Contribute more to Open Source projects\
+✉️ &nbsp;You can shoot me an email at bijoyhasan111@gmail.com! I'll try to respond as soon as I can.
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="200px"/>
+
 
 # 🛠 &nbsp;Tech Stack
 <p align="center">
-<img alt="sublime" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"/>
+<img alt="sublime" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"/>\
 <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
