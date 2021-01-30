@@ -6,10 +6,11 @@
   </samp>
 </p>
 
+💡 &nbsp; Portfolio website <a href="https://mhbijoy.xyz/">MH Bijoy</a>\
 💡 &nbsp; I work on <a href="https://www.sublimetext.com/">Sublime Text 3</a>\
 🎓 &nbsp; I’m currently learning everything 🤣\
 🌱 &nbsp; I’m looking to collaborate with other web developers\
-🥅 &nbsp; 2020 Goals: Contribute more to Open Source projects\
+🥅 &nbsp; 2021 Goals: Learn React & Contribute more to Open Source projects\
 ✉️ &nbsp;You can shoot me an email at bijoyhasan111@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="200px"/>
