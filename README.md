@@ -2,7 +2,7 @@
 <br>
 <p align="center">
   <samp>
-    I'm <a href="https://dev-mhbportfolio.pantheonsite.io/">Mahmudul Hasan Bijoy</a> currently a Final Year student at @DhakaCollege :school: </a> and a newcomer in Web Design & Development  Arena :computer:. Interested in working with Wordpress, PSD To HTML, PSD TO Wordpress and currently learning about JavaScript Framework.It seems I have a love relationship with Web D&D :neutral_face:
+    I'm <a href="https://dev-mhbportfolio.pantheonsite.io/">Mahmudul Hasan Bijoy</a> currently complete my graduation from @DhakaCollege :school: </a> and a newcomer in Web Design & Development  Arena :computer:. Interested in working with Wordpress, PSD To HTML, PSD TO Wordpress and currently learning about JavaScript Framework.It seems I have a love relationship with Web D&D :neutral_face:
   </samp>
 </p>
 
