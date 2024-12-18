@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Professional WordPress Developer | Elementor Expert<br>💼 Founder: MHB - A Digital Web Design Agency [![MHB](https://mhbijoy.com)] (mhbijoy.com)<br>👯 I’m looking to collaborate on PHP & Laravel<br>🤝 I’m looking for help with any modern stack<br>🌱 I’m currently learning Laravel & Vue.js
+🔭 Professional WordPress Developer | Elementor Expert<br>💼 Founder: MHB - A Digital Web Design Agency [MHB](https://mhbijoy.com)] (mhbijoy.com)<br>👯 I’m looking to collaborate on PHP & Laravel<br>🤝 I’m looking for help with any modern stack<br>🌱 I’m currently learning Laravel & Vue.js
 
 
 ## 🌐 Socials:
